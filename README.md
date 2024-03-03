@@ -7,7 +7,8 @@
 A SQL analysis on Warby Parker usage funnels to understand conversion rates and user preferences/purchase decisions for Warby Parker glasses.
 
 # Datasets Used 
-Consists of four datasets that were created by Codecademy in collaboration with Warby Parker's Data Science team, and uses fictional data - below are the datasets organized by funnels for this project:   
+Consists of four datasets that were created by Codecademy in collaboration with Warby Parker's Data Science team, and uses fictional data - below are the datasets organized by funnels for this project:
+
 **Quiz Funnel:**
 
   * survey.csv
