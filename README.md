@@ -1,6 +1,6 @@
 # SQL_Warby_Parker_Usage_Funnels
-**Author:** Sunny Tang 
-**Email:** sunnyp.tang@gmail.com 
+**Author:** Sunny Tang   
+**Email:** sunnyp.tang@gmail.com   
 **LinkedIn:** https://www.linkedin.com/in/sunny-tang-14122a95/
 
 # Introduction 
