@@ -1,6 +1,6 @@
 # Questions and Answers
 
-##Part 1: Quiz Funnel 
+## Part 1: Quiz Funnel 
 
 ### 1. First, let's get an idea of what response choices there are for each question in the survey. 
 ![alt text](/images/sql_script/1.response_choices_per_survey_question.png)
@@ -62,3 +62,10 @@ Looking at the most common response per question, a similar amount of respondent
 
 ##### Result: 
 <img src=images/sql_solutions/5.overall_conversionrate_purchasefunnel.png width="600" height="50">
+
+### 3. Calculate conversion rates for each step of the purchase funnel, and compare conversions. 
+![alt text](/images/sql_script/5.conversions_across_funnelsteps.png)
+
+##### Result: 
+<img src=images/sql_solutions/6.conversion_rate_across_funnelstep.png width="800" height="50">
+
