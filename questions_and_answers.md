@@ -84,7 +84,7 @@ Users who received more pairs of glasses to try on at home were more likely to m
 ![alt text](/images/sql_script/12.total_purchase_combinations.png)
 
 ##### Result: 
-![alt text](/images/sql_script/10._unique_purchaseoptions.png)
+![alt text](/images/sql_solutions/10._unique_purchaseoptions.png)
 
 #### Purchase Combinations
 ![alt text](/images/sql_script/13.purchase_combinations.png)
