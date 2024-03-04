@@ -49,8 +49,7 @@ Looking at the most common response per question, a similar amount of respondent
 * #### a. 50% of users will get _3_ pairs to try on
 * #### b. 50% of users will get _5_ pairs to try on
 
-### Are users who get more pairs to try on at home more likely to make a purchase? 
-
+### Are users who get more pairs to try on at home more likely to make a purchase?    
 
 ### 1. First create a table where we can see each user's purchase funnel. We want to understand whether or not the user tried on a pair of glasses at home, how many number of pairs they tried on, and whether or not they purchased the glasses. Limit to the first 10 rows. 
 ![alt text](/images/sql_script/3.purchase_funnel_by_user.png)
