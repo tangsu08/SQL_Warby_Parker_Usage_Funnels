@@ -71,10 +71,29 @@ Looking at the most common response per question, a similar amount of respondent
 
 As we move down the purchase funnel, conversion rates slightly drop. 75% move on from the style quiz to home try on, though this drops to 66% who move from home-try-on to purchasing glasses. 
 
-### 4. What are the conclusions of the A/B test? Were users who got more pairs of glasses to try on at home more likely to make a purchase? Calculate the difference in purchase rates between those who got three vs. five paris of glasses to try on. 
+### 4. What are the conclusions of the A/B test? Were users who got more pairs of glasses to try on at home more likely to make a purchase? Calculate the difference in purchase rates between those who got three vs. five pairs of glasses to try on. 
 ![alt text](/images/sql_script/6.comparing_purchase_rates_abtest.png)
 
 ##### Result: 
 <img src=images/sql_solutions/7.abtest_purchase_conversion_comparison.png width="850" height="65">
 
 Users who received more pairs of glasses to try on at home were more likely to make a purchase than those received fewer pairs (79% vs. 53%, respectively) - a 26% difference! 
+
+### 5. What were the most common types of purchases made overall? By women vs. men? 
+#### Overall 
+![alt text](/images/sql_script/9.most_common_purchases_made_overall.png)
+
+##### Result: 
+<img src=images/sql_solutions/9.common_purchases_made.png width="650" height="280">
+
+#### By Women 
+![alt text](/images/sql_script/11._common_purchases_made_by_women.png)
+
+##### Result: 
+<img src=images/sql_solutions/9c.common_purchases_women.png width="620" height="150">
+
+#### By Men
+![alt text](/images/sql_script/10.common_purchases_made_by_men.png)
+
+##### Result: 
+<img src=images/sql_solutions/9b.common_purchases_men.png width="600" height="180">
