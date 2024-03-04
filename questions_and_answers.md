@@ -1,5 +1,7 @@
 # Questions and Answers
 
+##Part 1: Quiz Funnel 
+
 ### 1. First, let's get an idea of what response choices there are for each question in the survey. 
 ![alt text](/images/sql_script/1.response_choices_per_survey_question.png)
 
@@ -40,3 +42,19 @@ The most common survey response was men's style glasses with a narrow fit, in a 
 <img src=images/sql_solutions/8b.most_common_response_byquestion.png width="450" height="300">
 
 Looking at the most common response per question, a similar amount of respondents were seeking for women's styles and men's styles. Narrow fit is the most popular fit choice, and rectangular the most preferred shape. Tortoise was the most popular color choice, though followed closely by black. 
+
+## Part 2: Purchase Funnel
+
+### Now let's shift our attention away from Warby's quiz funnel and towards the purchase funnel. Warby's purchase funnel consists of: Take the style quiz > Home try-on > Purchase the perfect pair of glasses. During the Home try-on stage, we will be conducting an A/B Test:  
+* #### a. 50% of users will get _3_ pairs to try on
+* #### b. 50% of users will get _5_ pairs to try on
+
+### Are users who get more pairs to try on at home more likely to make a purchase? 
+
+
+### 1. First create a table where we can see each user's purchase funnel. We want to understand whether or not the user tried on a pair of glasses at home, how many number of pairs they tried on, and whether or not they purchased the glasses. Limit to the first 10 rows. 
+![alt text](/images/sql_script/3.purchase_funnel_by_user.png)
+
+##### Result: 
+<img src=images/sql_solutions/4.purchase_funnel_per_user.png width="500" height="200">
+
