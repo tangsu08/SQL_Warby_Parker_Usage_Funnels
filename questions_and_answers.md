@@ -79,7 +79,20 @@ As we move down the purchase funnel, conversion rates slightly drop. 75% move on
 
 Users who received more pairs of glasses to try on at home were more likely to make a purchase than those received fewer pairs (79% vs. 53%, respectively) - a 26% difference! 
 
-### 5. What were the most common types of purchases made overall? By women vs. men? 
+### 5. How many purchase options are there? What are the different purchase combinations? 
+#### Number of purchase options
+![alt text](/images/sql_script/12.total_purchase_combinations.png)
+
+##### Result: 
+![alt text](/images/sql_script/10._unique_purchaseoptions.png)
+
+#### Purchase Combinations
+![alt text](/images/sql_script/13.purchase_combinations.png)
+
+##### Result: 
+<img src=images/sql_solutions/10b.unique _purchase_optionlist.png width="650" height="280">
+
+### 6. What were the most common types of purchases made overall? By women vs. men? 
 #### Overall 
 ![alt text](/images/sql_script/9.most_common_purchases_made_overall.png)
 
