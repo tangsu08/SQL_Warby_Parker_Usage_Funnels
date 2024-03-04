@@ -21,3 +21,18 @@
 **Question three and question five have lower completion rates.** Question three asks respondents which shapes (of glasses) they like. One reason for a lower completion rate is **cultural/demographic factors**: preferences for shapes could vary based on cultural or demographic factors and if the options provided do not resonate with certain groups of users, it could lead to lower completion rates. Another reason could be **privacy concerns**: some respondents may feel uncomfortable sharing their preferences for shapes, especially if they perceive the information as potentially revealing or sensitive in some way. This could lead them to skip the question.  
 
 Question five asks respondents when their last eye exam was. One reason could be due to **fatigue/disenagement**: respondents may lose interest as they progress through the survey, resulting in lower completion rates for questions toward the end of the survey. Another reason may be due to **embarrassment**: some respondents may feel embarrassed disclosing the length of time since their last eye exam, especially if it has been a long time.
+
+### 4. What were the most common results of the style quiz overall? By question? 
+#### Overall
+
+![alt text](/images/sql_script/7.most_common_results_of_style_quiz.png)
+
+##### Result: 
+<img src=images/sql_solutions/8.common_quizresponses_across_board.png width="500" height="180">
+
+#### By question
+
+![alt text](/images/sql_script/8.most_common_results_of_quiz_byquestion.png)
+
+##### Result: 
+<img src=images/sql_solutions/8b.most_common_response_byquestion.png width="450" height="300">
