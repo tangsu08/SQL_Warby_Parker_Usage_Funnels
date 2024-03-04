@@ -45,7 +45,7 @@ Looking at the most common response per question, a similar amount of respondent
 
 ## Part 2: Purchase Funnel
 
-### Now let's shift our attention away from Warby's quiz funnel and towards the purchase funnel. Warby's purchase funnel consists of: Take the style quiz > Home try-on > Purchase the perfect pair of glasses. During the Home try-on stage, we will be conducting an A/B Test:  
+### Now let's shift our attention away from Warby's quiz funnel and towards their purchase funnel. Warby's purchase funnel consists of: Take the style quiz > Home try-on > Purchase the perfect pair of glasses. During the Home try-on stage, we will be conducting an A/B Test:  
 * #### a. 50% of users will get _3_ pairs to try on
 * #### b. 50% of users will get _5_ pairs to try on
 
@@ -69,3 +69,6 @@ Looking at the most common response per question, a similar amount of respondent
 ##### Result: 
 <img src=images/sql_solutions/6.conversion_rate_across_funnelstep.png width="800" height="50">
 
+As we move down the purchase funnel, conversion rates slightly drop. 75% move on from the style quiz to home try on, though this drops to 66% who move from home-try-on to purchasing glasses. 
+
+### 4. What are the conclusions of the A/B test? Were users who got more pairs of glasses to try on at home more likely to make a purchase? Calculate the difference in purchase rates between those who got three vs. five paris of glasses to try on. 
