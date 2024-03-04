@@ -90,7 +90,7 @@ Users who received more pairs of glasses to try on at home were more likely to m
 ![alt text](/images/sql_script/13.purchase_combinations.png)
 
 ##### Result: 
-<img src=images/sql_solutions/10b.unique _purchase_optionlist.png width="650" height="280">
+<img src=images/sql_solutions/10b.unique_purchase_optionlist.png width="650" height="280">
 
 ### 6. What were the most common types of purchases made overall? By women vs. men? 
 #### Overall 
