@@ -57,3 +57,8 @@ Looking at the most common response per question, a similar amount of respondent
 ##### Result: 
 <img src=images/sql_solutions/4.purchase_funnel_per_user.png width="500" height="200">
 
+### 2. Calculate overall conversion rate (e.g., what percent of respondents completed all steps of the funnel?). 
+![alt text](/images/sql_script/4.overall_conversionrate_purchasefunnel.png)
+
+##### Result: 
+<img src=images/sql_solutions/5.overall_conversionrate_purchasefunnel.png width="600" height="50">
