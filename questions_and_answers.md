@@ -67,8 +67,14 @@ Looking at the most common response per question, a similar amount of respondent
 ![alt text](/images/sql_script/5.conversions_across_funnelsteps.png)
 
 ##### Result: 
-<img src=images/sql_solutions/6.conversion_rate_across_funnelstep.png width="800" height="50">
+<img src=images/sql_solutions/6.conversion_rate_across_funnelstep.png width="830" height="40">
 
 As we move down the purchase funnel, conversion rates slightly drop. 75% move on from the style quiz to home try on, though this drops to 66% who move from home-try-on to purchasing glasses. 
 
 ### 4. What are the conclusions of the A/B test? Were users who got more pairs of glasses to try on at home more likely to make a purchase? Calculate the difference in purchase rates between those who got three vs. five paris of glasses to try on. 
+![alt text](/images/sql_script/6.comparing_purchase_rates_abtest.png)
+
+##### Result: 
+<img src=images/sql_solutions/7.abtest_purchase_conversion_comparison.png width="850" height="65">
+
+Users who received more pairs of glasses to try on at home were more likely to make a purchase than those received fewer pairs (79% vs. 53%, respectively) - a 26% difference! 
