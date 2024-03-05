@@ -92,20 +92,20 @@ Users who received more pairs of glasses to try on at home were more likely to m
 ##### Result: 
 <img src=images/sql_solutions/10b.unique_purchase_optionlist.png width="650" height="280">
 
-### 6. What were the most common types of purchases made overall? By women vs. men? 
+### 6. What were the most common types of purchases made overall? By women's styles vs. men's styles? 
 #### Overall 
 ![alt text](/images/sql_script/9.most_common_purchases_made_overall.png)
 
 ##### Result: 
 <img src=images/sql_solutions/9.common_purchases_made.png width="650" height="280">
 
-#### By Women 
+#### By Women's Styles 
 ![alt text](/images/sql_script/11._common_purchases_made_by_women.png)
 
 ##### Result: 
 <img src=images/sql_solutions/9c.common_purchases_women.png width="620" height="150">
 
-#### By Men
+#### By Men's Styles
 ![alt text](/images/sql_script/10.common_purchases_made_by_men.png)
 
 ##### Result: 
