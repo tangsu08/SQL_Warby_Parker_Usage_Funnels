@@ -111,4 +111,5 @@ Users who received more pairs of glasses to try on at home were more likely to m
 ##### Result: 
 <img src=images/sql_solutions/9b.common_purchases_men.png width="600" height="180">
 
-### 7. How accurate was the style quiz in determining a user's purchase? In other words, did the answers that users selected in the style quiz align with what they ended up buying (or not buying)? 
+### 7. For users who were unsure of what they were looking for in glasses, were they more or less likely to end up making a purchase (e.g., for users who selected "I'm not sure" for the style and/or fit of their glasses in the Style Quiz, were they more or less likely to end up making a purchase?)? 
+
