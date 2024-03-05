@@ -119,8 +119,12 @@ Users who received more pairs of glasses to try on at home were more likely to m
 ##### Result: 
 <img src=images/sql_solutions/11.aunsure_style_purchasedecision.png width="1000" height="50">
 
+Surprisingly, all users who answered "I'm not sure. Let's skip it." for the first question on the survey that asks what they are looking for, did not end up making any purchase from Warby Parker. 
+
 #### Then, taking a look at those who selected that they weren't sure on what their fit is: 
 <img src=images/sql_script/14b.unsure_fit_purchase.png width="800" height="400"> 
 
 ##### Result: 
 <img src=images/sql_solutions/11b.unsure_fit_purchasedecision.png width="1000" height="180">
+
+For those who selected that they were unsure of their fit, there was a pretty even split between those who made a purchase (45) and those who did not make a purchase (44). 
