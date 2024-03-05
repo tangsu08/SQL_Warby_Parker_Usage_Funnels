@@ -113,3 +113,14 @@ Users who received more pairs of glasses to try on at home were more likely to m
 
 ### 7. For users who were unsure of what they were looking for in glasses, were they more or less likely to end up making a purchase (e.g., for users who selected "I'm not sure" for the style and/or fit of their glasses in the Style Quiz, were they more or less likely to end up making a purchase?)? 
 
+#### First, taking a look at those who selected that they weren't sure on what style of glasses they wanted: 
+![alt text](/images/sql_script/14.aunsure_on_style_purchasedecision.png)
+
+##### Result: 
+<img src=images/sql_solutions/11.aunsure_style_purchasedecision.png width="1000" height="50">
+
+#### Then, taking a look at those who selected that they weren't sure on what their fit is: 
+![alt text](/images/sql_script/14b.unsure_on_fit_purchasedecision.png)
+
+##### Result: 
+<img src=images/sql_solutions/11b.unsure_fit_purchasedecision.png width="1000" height="180">
