@@ -79,8 +79,8 @@ As we move down the purchase funnel, conversion rates slightly drop. 75% move on
 
 Users who received more pairs of glasses to try on at home were more likely to make a purchase than those who received fewer pairs (79% vs. 53%, respectively) - a 26% difference! 
 
-### 5. How many purchase options are there? What are the different purchase combinations? 
-#### Number of purchase options
+### 5. How many purchase combinations are there, and what are they?
+#### Number of purchase combinations
 ![alt text](/images/sql_script/12.total_purchase_combinations.png)
 
 ##### Result: 
