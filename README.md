@@ -30,7 +30,10 @@ Based on the [SQL analysis](/questions_and_answers.md), below are some key takea
 
 ## Recommendations: 
 
- * Make question one on the style quiz a mandatory question to ensure optimal and accurate frame recommendations for users to try on at home.
- * Expand the choice options for question three in the style quiz to provide users with more shape preferences to ensure inclusivity and drive completion rate. Also remove question five on most recent eye exam given its irrelevance to making frame suggestions for users.
- * Update Warby Parker's home try-on policy to allow for a max of five pairs to try on before a user has to make a purchase decision.
- * Promote Warby's top two fan favorites for new visitors to potentially drive home try-ons and purchases. 
+ * **Quiz:**
+   * Make question one on the style quiz a mandatory question to ensure optimal and accurate frame recommendations for users to try on at home.
+   * Expand the choice options for question three in the style quiz to provide users with more shape preferences to ensure inclusivity and drive completion rate. Also  remove question five on most recent eye exam given its irrelevance to making frame suggestions for users.
+ * **Home Try-On:**
+   * Update Warby Parker's home try-on policy to allow for a max of five pairs to try on before a user has to make a purchase decision.
+ * **Marketing:**
+   * Promote Warby's top two fan favorites for new visitors to potentially drive home try-ons and purchases. 
