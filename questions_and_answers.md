@@ -119,12 +119,12 @@ Users who received more pairs of glasses to try on at home were more likely to m
 ##### Result: 
 <img src=images/sql_solutions/11.style_purchasechoice.png width="290" height="80">
 
-Surprisingly, all users who answered "I'm not sure. Let's skip it." for the first question on the survey that asks what they are looking for, did not end up making any purchase from Warby Parker. 
+Users who were unsure from the getgo on what style of glasses they were looking for, did not end up making any purchase from Warby Parker. 
 
-#### Fit - then, taking a look at those who selected that they weren't sure on what their _fit_ is: 
+#### Fit - then, taking a look at those who selected that they weren't sure on what their _fit_ was: 
 ![alt text](/images/sql_script/14b.fit_to_purchasechoice.png)
 
 ##### Result: 
 <img src=images/sql_solutions/12.fit_purchasechoie.png width="290" height="80">
 
-For those who selected that they were unsure of their fit, there was a pretty even split between those who made a purchase (45) and those who did not make a purchase (44). 
+If users selected that they were unsure of their fit, they were less likely to make a purchase compared to those who selected a fit response. 
