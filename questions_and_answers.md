@@ -113,7 +113,7 @@ Users who received more pairs of glasses to try on at home were more likely to m
 
 ### 7. For users who were unsure of what they were looking for in glasses, were they more or less likely to end up making a purchase (e.g., for users who selected "I'm not sure" for the style and/or fit of their glasses in the Style Quiz, were they more or less likely to end up making a purchase?)? 
 
-#### First, taking a look at those who selected that they weren't sure on what style of glasses they wanted: 
+#### Style - first, taking a look at those who selected that they weren't sure on what _style_ of glasses they wanted: 
 ![alt text](/images/sql_script/14a.style_to_purchasechoice.png)
 
 ##### Result: 
@@ -121,7 +121,7 @@ Users who received more pairs of glasses to try on at home were more likely to m
 
 Surprisingly, all users who answered "I'm not sure. Let's skip it." for the first question on the survey that asks what they are looking for, did not end up making any purchase from Warby Parker. 
 
-#### Then, taking a look at those who selected that they weren't sure on what their fit is: 
+#### Fit - then, taking a look at those who selected that they weren't sure on what their _fit_ is: 
 ![alt text](/images/sql_script/14b.fit_to_purchasechoice.png)
 
 ##### Result: 
