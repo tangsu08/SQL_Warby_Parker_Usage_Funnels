@@ -25,7 +25,7 @@ Based on the [SQL analysis](/questions_and_answers.md), below are some key takea
 ## Key Takeaways: 
 
  * Users appear to drop off from the style quiz when questions become unrelatable or sensitive.
- * Purchase rates are much higher for group B in the home try-on a/b test, who received five pairs of glasses versus three pairs to try on at home.
+ * Purchase rates are much among users who received five pairs of glasses versus three pairs to try on at home.
  * Narrow to medium frames in a rectangular/square shape appear to be the most popular picks among users. 
 
 ## Recommendations: 
