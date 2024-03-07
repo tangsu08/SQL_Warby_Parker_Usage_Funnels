@@ -20,7 +20,7 @@ Consists of [four datasets](/datasets/) that were created by Codecademy in colla
   * purchase.csv
 
 # Key Takeaways and Recommendations 
-Based on the [SQL analysis](/questions_and_answers.md), below are some key takeaways and recommendations for Warby Parker to implement on their site: 
+Based on the [SQL analysis](/questions_and_answers.md), below are some key takeaways along with recommendations for Warby Parker: 
 
 ## Key Takeaways: 
 
