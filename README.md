@@ -1,4 +1,7 @@
-# SQL_Warby_Parker_Usage_Funnels
+
+# Warby Parker Usage Funnels - SQL Project
+<img src=images/warbyparker.jpg width="600" height="400"> 
+
 **Author:** Sunny Tang   
 **Email:** sunnyp.tang@gmail.com   
 **LinkedIn:** https://www.linkedin.com/in/sunny-tang-14122a95/
